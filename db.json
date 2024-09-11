@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": "be6c",
+      "title": "ITIS - 6177",
+      "author": "FABIO "
+    },
+    {
+      "id": "4571",
+      "title": "ITIS-6240",
+      "author": "Yongge WanG"
+    }
+  ],
+  "comments": [
+    {
+      "id": "3",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
